@@ -1,6 +1,6 @@
-# fly.toml file generated for drogo on 2022-10-31T10:13:22+02:00
+# fly.toml file generated for drogo-app on 2022-10-31T14:45:54+02:00
 
-app = "drogo"
+app = "drogo-app"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
